@@ -68,11 +68,11 @@ Based on the data analysis, the project delivers actionable recommendations for:
   4. Statistical Analysis techniques for identifying significant patterns
 
 ## Repository Contents
-/data - Raw and processed data files
-/analysis - Analytical scripts and intermediate outputs
-/visualizations - Dashboard files and exported images
-/presentation - Executive summary slides
-/documentation - Detailed methodology and findings
+    --> /data - Raw and processed data files
+    --> /analysis - Analytical scripts and intermediate outputs
+    --> /visualizations - Dashboard files and exported images
+    --> /presentation - Executive summary slides
+    --> /documentation - Detailed methodology and findings
 
 ## How to Use
 Clone this repository
